@@ -1,12 +1,13 @@
 {
   "name": "studio-rental",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
-  "Dependencies": {
+  "dependencies": {
     "vite": "^6.2.5"
   }
 }
